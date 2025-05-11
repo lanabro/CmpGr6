@@ -1,0 +1,9 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (ComputerGrah1.vcxproj, ComputerGraph1.vcxproj, ComputerGraph1.vcxproj, ComputerGraph5.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  main.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Svetlana\Documents\GitHub\ComputerGrah5\CmpGr6\ComputerGrah1\Mesh.h(28,50): warning C4267: аргумент: преобразование из "size_t" в "GLsizei"; возможна потеря данных
+  (компиляция исходного файла "main.cpp")
+  
+  Shader.cpp
+  Создание кода...
+  ComputerGrah1.vcxproj -> C:\Users\Svetlana\Documents\GitHub\ComputerGrah5\CmpGr6\x64\Debug\ComputerGraph.exe
